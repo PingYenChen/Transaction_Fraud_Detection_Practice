@@ -71,7 +71,7 @@ Popular algorithms people use for this job (you can try them later):
 - Simple neural networks  
 - Sometimes even CatBoost or simple logistic regression as a strong baseline
 
-The project is credicted to "Data Science with Onur", where i learned how to use data science and machine learning techniques for fraud detection.
+The project is credicted to "Data Science with Onur", where I learned how to use data science and machine learning techniques for fraud detection.
 
 Thanks for stopping by! 
 
